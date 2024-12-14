@@ -8,7 +8,7 @@
 	  <Authors>Al-ain Softech</Authors>
 	  <AssemblyName>IdentityServer9</AssemblyName>
 	  <RepositoryUrl>https://github.com/abbasdevelopers/identityserver9</RepositoryUrl>
-	  <Version>1.0.0</Version>
+	  <Version>1.0.1</Version>
 	  <PackageId>IdentityServer9</PackageId>
 	  <PackageReadmeFile>README.md</PackageReadmeFile>
 	  <PackageLicenseFile>LICENSE</PackageLicenseFile>
@@ -22,7 +22,6 @@
 
   <ItemGroup>
     <PackageReference Include="IdentityServer9.Storage" Version="1.0.0" />
-    <PackageReference Include="Microsoft.AspNet.Cors" Version="5.3.0" />
     <PackageReference Include="Microsoft.AspNetCore.Authentication.Facebook" Version="9.0.0" />
     <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="9.0.0" />
     <PackageReference Include="Microsoft.AspNetCore.Authentication.MicrosoftAccount" Version="9.0.0" />
